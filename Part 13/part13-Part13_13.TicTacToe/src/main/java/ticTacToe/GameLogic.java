@@ -11,8 +11,6 @@ package ticTacToe;
  */
 public class GameLogic {
     
-
-    
     private static char[][] grid;
     
     public GameLogic(int size){
